@@ -1,0 +1,8 @@
+gradio
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
+python-dotenv
